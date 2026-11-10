@@ -370,7 +370,7 @@ var CLARITY_ID = 'xxxxxxxxxx';   // Microsoft Clarity: Project ID
   if (GA_ID.indexOf('XXXX') === -1) {
     var s = document.createElement('script'); s.async = true;
     s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID; document.head.appendChild(s);
-    gtag('js', new Date()); gtag('config', GA_ID);
+    gtag('js', new Date()); gtag('config', GA_ID, {send_page_view:false});
   }
   if (CLARITY_ID.indexOf('xxxx') === -1) {
     (function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
