@@ -1,0 +1,3 @@
+Volitelné. Fotka hráče se jmenuje podle příjmení malými písmeny bez diakritiky a mezer, např.:
+mbappe.jpg  bellingham.jpg  courtois.jpg  alexanderarnold.jpg  guler.jpg  diomande.jpg
+Pokud soubor chybí, stránka zkusí fotku z internetu, a když ani ta není, ukáže číslo dresu.

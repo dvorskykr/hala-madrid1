@@ -1,0 +1,704 @@
+{
+ "updated": "2026-11-10T10:30:00Z",
+ "games": [
+  {
+   "t": "2026-09-08T19:00:00Z",
+   "comp": "Liga mistrů",
+   "home": true,
+   "opp": "Inter Milán",
+   "rm": 2,
+   "og": 1
+  },
+  {
+   "t": "2026-09-12T19:00:00Z",
+   "comp": "La Liga",
+   "home": true,
+   "opp": "Rayo Vallecano",
+   "rm": 4,
+   "og": 1
+  },
+  {
+   "t": "2026-09-15T19:30:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "Elche",
+   "rm": 3,
+   "og": 2
+  },
+  {
+   "t": "2026-09-20T14:15:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "Atlético Madrid",
+   "rm": 1,
+   "og": 2
+  },
+  {
+   "t": "2026-10-10T19:00:00Z",
+   "comp": "La Liga",
+   "home": true,
+   "opp": "Villarreal",
+   "rm": 1,
+   "og": 0
+  },
+  {
+   "t": "2026-10-14T19:00:00Z",
+   "comp": "Liga mistrů",
+   "home": false,
+   "opp": "AS Řím",
+   "rm": 4,
+   "og": 3
+  },
+  {
+   "t": "2026-10-18T19:00:00Z",
+   "comp": "La Liga",
+   "home": true,
+   "opp": "Sevilla",
+   "rm": 4,
+   "og": 1
+  },
+  {
+   "t": "2026-10-21T19:00:00Z",
+   "comp": "Liga mistrů",
+   "home": true,
+   "opp": "RB Lipsko",
+   "rm": 4,
+   "og": 1
+  },
+  {
+   "t": "2026-10-25T20:00:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "FC Barcelona",
+   "rm": 2,
+   "og": 1
+  },
+  {
+   "t": "2026-11-01T15:15:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "Racing Santander",
+   "rm": 3,
+   "og": 0
+  },
+  {
+   "t": "2026-11-04T17:45:00Z",
+   "comp": "Liga mistrů",
+   "home": false,
+   "opp": "AEK Athény",
+   "rm": 3,
+   "og": 2
+  },
+  {
+   "t": "2026-11-07T20:00:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "Valencia",
+   "rm": 3,
+   "og": 0
+  },
+  {
+   "t": "2026-11-21T20:00:00Z",
+   "comp": "La Liga",
+   "home": true,
+   "opp": "Celta Vigo",
+   "prob": {
+    "h": 0.805,
+    "d": 0.124,
+    "a": 0.071
+   }
+  },
+  {
+   "t": "2026-11-24T20:00:00Z",
+   "comp": "Liga mistrů",
+   "home": true,
+   "opp": "PSV Eindhoven",
+   "prob": {
+    "h": 0.815,
+    "d": 0.107,
+    "a": 0.078
+   }
+  },
+  {
+   "t": "2026-11-28T20:00:00Z",
+   "comp": "La Liga",
+   "home": true,
+   "opp": "Alavés"
+  },
+  {
+   "t": "2026-12-02T18:00:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "Real Sociedad"
+  },
+  {
+   "t": "2026-12-06T19:00:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "Athletic Bilbao"
+  },
+  {
+   "t": "2026-12-09T20:00:00Z",
+   "comp": "Liga mistrů",
+   "home": false,
+   "opp": "Arsenal"
+  },
+  {
+   "t": "2026-12-13T19:00:00Z",
+   "comp": "La Liga",
+   "home": true,
+   "opp": "Osasuna"
+  },
+  {
+   "t": "2026-12-20T19:00:00Z",
+   "comp": "La Liga",
+   "home": false,
+   "opp": "Deportivo La Coruña"
+  }
+ ],
+ "tables": {
+  "liga": [
+   [
+    1,
+    "FC Barcelona",
+    11,
+    0,
+    1,
+    33
+   ],
+   [
+    2,
+    "Real Madrid",
+    10,
+    0,
+    2,
+    30
+   ],
+   [
+    3,
+    "Atlético Madrid",
+    9,
+    1,
+    2,
+    28
+   ],
+   [
+    4,
+    "Real Betis",
+    8,
+    2,
+    2,
+    26
+   ],
+   [
+    5,
+    "Real Sociedad",
+    7,
+    1,
+    4,
+    22
+   ],
+   [
+    6,
+    "Sevilla",
+    5,
+    3,
+    4,
+    18
+   ],
+   [
+    7,
+    "Athletic Bilbao",
+    4,
+    4,
+    3,
+    16
+   ],
+   [
+    8,
+    "Villarreal",
+    4,
+    3,
+    5,
+    15
+   ],
+   [
+    9,
+    "Deportivo La Coruña",
+    3,
+    6,
+    3,
+    15
+   ],
+   [
+    10,
+    "Racing Santander",
+    4,
+    2,
+    6,
+    14
+   ],
+   [
+    11,
+    "Celta Vigo",
+    2,
+    7,
+    3,
+    13
+   ],
+   [
+    12,
+    "Alavés",
+    3,
+    4,
+    5,
+    13
+   ],
+   [
+    13,
+    "Espanyol",
+    3,
+    3,
+    6,
+    12
+   ],
+   [
+    14,
+    "Rayo Vallecano",
+    3,
+    3,
+    5,
+    12
+   ],
+   [
+    15,
+    "Getafe",
+    3,
+    3,
+    6,
+    12
+   ],
+   [
+    16,
+    "Osasuna",
+    3,
+    3,
+    6,
+    12
+   ],
+   [
+    17,
+    "Levante",
+    2,
+    5,
+    5,
+    11
+   ],
+   [
+    18,
+    "Elche",
+    2,
+    4,
+    6,
+    10
+   ],
+   [
+    19,
+    "Valencia",
+    2,
+    3,
+    7,
+    9
+   ],
+   [
+    20,
+    "Málaga",
+    0,
+    5,
+    7,
+    5
+   ]
+  ],
+  "lm": [
+   [
+    1,
+    "Paris Saint-Germain",
+    4,
+    0,
+    0,
+    12
+   ],
+   [
+    2,
+    "Real Madrid",
+    4,
+    0,
+    0,
+    12
+   ],
+   [
+    3,
+    "Arsenal",
+    3,
+    1,
+    0,
+    10
+   ],
+   [
+    4,
+    "Como 1907",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    5,
+    "FC Barcelona",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    6,
+    "Aston Villa",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    7,
+    "Manchester City",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    8,
+    "Liverpool",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    9,
+    "Club Brugge",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    10,
+    "Sporting CP",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    11,
+    "Real Betis",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    12,
+    "Borussia Dortmund",
+    3,
+    0,
+    1,
+    9
+   ],
+   [
+    13,
+    "Bayern Mnichov",
+    2,
+    2,
+    0,
+    8
+   ],
+   [
+    14,
+    "VfB Stuttgart",
+    2,
+    1,
+    1,
+    7
+   ],
+   [
+    15,
+    "Inter Milán",
+    2,
+    0,
+    2,
+    6
+   ],
+   [
+    16,
+    "LASK Linz",
+    2,
+    0,
+    2,
+    6
+   ],
+   [
+    17,
+    "Manchester United",
+    2,
+    0,
+    2,
+    6
+   ],
+   [
+    18,
+    "Galatasaray",
+    2,
+    0,
+    2,
+    6
+   ],
+   [
+    19,
+    "Fenerbahce",
+    1,
+    2,
+    1,
+    5
+   ],
+   [
+    20,
+    "AS Řím",
+    1,
+    1,
+    2,
+    4
+   ],
+   [
+    21,
+    "Šachtar Doněck",
+    1,
+    1,
+    2,
+    4
+   ],
+   [
+    22,
+    "Viking FK",
+    1,
+    1,
+    2,
+    4
+   ],
+   [
+    23,
+    "Atlético Madrid",
+    1,
+    1,
+    2,
+    4
+   ],
+   [
+    24,
+    "PSV Eindhoven",
+    1,
+    1,
+    2,
+    4
+   ],
+   [
+    25,
+    "Bodø/Glimt",
+    1,
+    1,
+    2,
+    4
+   ],
+   [
+    26,
+    "FC Porto",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    27,
+    "SSC Neapol",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    28,
+    "Villarreal",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    29,
+    "AEK Athény",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    29,
+    "RB Lipsko",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    31,
+    "Sabah",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    32,
+    "Feyenoord",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    33,
+    "RC Lens",
+    1,
+    0,
+    3,
+    3
+   ],
+   [
+    34,
+    "Slavia Praha",
+    0,
+    1,
+    3,
+    1
+   ],
+   [
+    35,
+    "Lille",
+    0,
+    1,
+    3,
+    1
+   ],
+   [
+    36,
+    "Slovan Bratislava",
+    0,
+    0,
+    4,
+    0
+   ]
+  ]
+ },
+ "lineup": {
+  "label": "Valencia – Real Madrid 0:3",
+  "date": "2026-11-07",
+  "xi": [
+   [
+    1,
+    "Courtois",
+    50,
+    91
+   ],
+   [
+    8,
+    "Valverde",
+    86,
+    72
+   ],
+   [
+    16,
+    "Konaté",
+    63,
+    76
+   ],
+   [
+    4,
+    "Huijsen",
+    37,
+    76
+   ],
+   [
+    17,
+    "Cucurella",
+    14,
+    72
+   ],
+   [
+    20,
+    "Bernardo Silva",
+    34,
+    54
+   ],
+   [
+    14,
+    "Tchouaméni",
+    66,
+    54
+   ],
+   [
+    25,
+    "Diomande",
+    17,
+    32
+   ],
+   [
+    5,
+    "Bellingham",
+    50,
+    34
+   ],
+   [
+    15,
+    "Güler",
+    83,
+    32
+   ],
+   [
+    10,
+    "Mbappé",
+    50,
+    12
+   ]
+  ],
+  "subs": [
+   [
+    19,
+    "Carlos Espí"
+   ],
+   [
+    9,
+    "Endrick"
+   ],
+   [
+    18,
+    "Thiago Pitarch"
+   ],
+   [
+    null,
+    "Sergio Mestre (brankář)"
+   ]
+  ]
+ },
+ "source": "SportRadar (ruční aktualizace 10. 11. 2026)"
+}

@@ -1,0 +1,36 @@
+AUTOMATICKÁ AKTUALIZACE DAT (jednorázové nastavení, cca 10 minut)
+
+Stránka čte data ze souboru data.json. GitHub ho sám přepíše každé 3 hodiny
+(výsledky, program, tabulky, sestava) a 2x denně i s kurzy. Stránka si čerstvý
+soubor sama stáhne, ani když ji máte otevřenou.
+
+1) Klíč pro výsledky a tabulky (povinný, zdarma)
+   - Na football-data.org zvolte Register, vyplňte e-mail a potvrďte.
+   - Klíč (API token) vám přijde e-mailem.
+
+2) Klíč pro kurzy (volitelný, zdarma 500 dotazů měsíčně)
+   - Na the-odds-api.com si vyžádejte bezplatný klíč.
+   - Tipsport v této službě není, kurzy jsou průměr evropských sázkových kanceláří.
+
+3) Uložení klíčů na GitHubu
+   - V repozitáři: Settings > Secrets and variables > Actions > New repository secret.
+   - Název FOOTBALL_DATA_KEY, hodnota váš klíč z kroku 1.
+   - Název ODDS_API_KEY, hodnota klíč z kroku 2 (když ho máte).
+
+4) Povolení zápisu
+   - Settings > Actions > General > Workflow permissions > Read and write permissions > Save.
+
+5) Nahrání souborů
+   - Do repozitáře nahrajte všechno z této složky včetně skryté složky .github
+     (na GitHubu: Add file > Upload files, přetáhněte i složku .github a scripts).
+
+6) První spuštění
+   - Záložka Actions > Aktualizace dat > Run workflow.
+   - Za minutu by měl vzniknout nový záznam "Aktualizace dat" a data.json se obnoví.
+   - Pokud je červený křížek, otevřete běh a přečtěte řádek VAROVÁNÍ nebo Chybí FOOTBALL_DATA_KEY.
+
+Poznámky
+ - Ručně můžete data.json kdykoli upravit (třeba doplnit kurz z Tipsportu).
+   Kurz se zapisuje do zápasu jako "odds": {"h": 1.5, "d": 4.2, "a": 6.0, "src": "Tipsport"}
+   (h = domácí, d = remíza, a = hosté). Kurz se při dalším běhu přepíše jen u zápasů, ke kterým API kurzy má.
+ - Sestava se bere z posledního odehraného zápasu. Když ji služba pro zápas nemá, zůstane předchozí.
