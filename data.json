@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:21:13Z",
+ "updated": "2026-11-19T15:28:04Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -152,9 +152,9 @@
    "opp": "Celta Vigo",
    "id": 564754,
    "odds": {
-    "h": 1.17,
-    "d": 7.39,
-    "a": 14.51,
+    "h": 1.16,
+    "d": 7.73,
+    "a": 15.67,
     "src": "průměr 20 sázkových kanceláří (The Odds API)"
    }
   },
@@ -166,8 +166,8 @@
    "id": 575397,
    "odds": {
     "h": 1.17,
-    "d": 8.18,
-    "a": 11.65,
+    "d": 8.24,
+    "a": 11.74,
     "src": "průměr 21 sázkových kanceláří (The Odds API)"
    }
   },
@@ -178,9 +178,9 @@
    "opp": "Alavés",
    "id": 564762,
    "odds": {
-    "h": 1.14,
+    "h": 1.13,
     "d": 8.15,
-    "a": 15.24,
+    "a": 15.41,
     "src": "průměr 15 sázkových kanceláří (The Odds API)"
    }
   },
@@ -918,5 +918,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
