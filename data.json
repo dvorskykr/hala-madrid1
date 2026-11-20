@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:08:40Z",
+ "updated": "2026-11-20T15:05:35Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -153,9 +153,9 @@
    "id": 564754,
    "odds": {
     "h": 1.16,
-    "d": 7.81,
-    "a": 15.81,
-    "src": "průměr 20 sázkových kanceláří (The Odds API)"
+    "d": 7.99,
+    "a": 16.15,
+    "src": "průměr 19 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -166,9 +166,9 @@
    "id": 575397,
    "odds": {
     "h": 1.17,
-    "d": 8.26,
-    "a": 11.74,
-    "src": "průměr 21 sázkových kanceláří (The Odds API)"
+    "d": 8.23,
+    "a": 11.85,
+    "src": "průměr 22 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -178,9 +178,9 @@
    "opp": "Alavés",
    "id": 564762,
    "odds": {
-    "h": 1.13,
-    "d": 8.15,
-    "a": 15.44,
+    "h": 1.14,
+    "d": 8.11,
+    "a": 15.16,
     "src": "průměr 15 sázkových kanceláří (The Odds API)"
    }
   },
@@ -918,5 +918,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
