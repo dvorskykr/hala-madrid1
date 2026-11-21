@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:49:03Z",
+ "updated": "2026-11-21T14:25:29Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -153,8 +153,8 @@
    "id": 564754,
    "odds": {
     "h": 1.16,
-    "d": 7.87,
-    "a": 16.3,
+    "d": 8.09,
+    "a": 16.08,
     "src": "průměr 19 sázkových kanceláří (The Odds API)"
    }
   },
@@ -166,8 +166,8 @@
    "id": 575397,
    "odds": {
     "h": 1.17,
-    "d": 8.28,
-    "a": 11.97,
+    "d": 8.26,
+    "a": 12.06,
     "src": "průměr 22 sázkových kanceláří (The Odds API)"
    }
   },
@@ -180,7 +180,7 @@
    "odds": {
     "h": 1.14,
     "d": 8.15,
-    "a": 15.23,
+    "a": 15.17,
     "src": "průměr 15 sázkových kanceláří (The Odds API)"
    }
   },
@@ -918,5 +918,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
