@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:15:47Z",
+ "updated": "2026-11-22T23:24:50Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -162,9 +162,9 @@
    "id": 575397,
    "odds": {
     "h": 1.17,
-    "d": 8.3,
-    "a": 12.08,
-    "src": "průměr 22 sázkových kanceláří (The Odds API)"
+    "d": 8.5,
+    "a": 12.42,
+    "src": "průměr 23 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -174,10 +174,10 @@
    "opp": "Alavés",
    "id": 564762,
    "odds": {
-    "h": 1.14,
-    "d": 8.24,
-    "a": 15.14,
-    "src": "průměr 18 sázkových kanceláří (The Odds API)"
+    "h": 1.15,
+    "d": 8.32,
+    "a": 15.16,
+    "src": "průměr 20 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -192,7 +192,13 @@
    "comp": "La Liga",
    "home": false,
    "opp": "Athletic",
-   "id": 564775
+   "id": 564775,
+   "odds": {
+    "h": 4.54,
+    "d": 4.12,
+    "a": 1.6,
+    "src": "průměr 8 sázkových kanceláří (The Odds API)"
+   }
   },
   {
    "t": "2026-12-09T20:00:00Z",
@@ -391,10 +397,10 @@
    [
     3,
     "Atlético Madrid",
-    9,
+    10,
     1,
     2,
-    28
+    31
    ],
    [
     4,
@@ -470,6 +476,14 @@
    ],
    [
     13,
+    "Osasuna",
+    4,
+    3,
+    6,
+    15
+   ],
+   [
+    14,
     "Celta Vigo",
     2,
     7,
@@ -477,7 +491,7 @@
     13
    ],
    [
-    14,
+    15,
     "Rayo Vallecano",
     3,
     3,
@@ -485,24 +499,16 @@
     12
    ],
    [
-    15,
-    "Getafe",
-    3,
-    3,
-    6,
-    12
-   ],
-   [
     16,
-    "Osasuna",
+    "Valencia",
     3,
     3,
-    6,
+    7,
     12
    ],
    [
     17,
-    "Valencia",
+    "Getafe",
     3,
     3,
     7,
@@ -529,7 +535,7 @@
     "Málaga",
     0,
     5,
-    7,
+    8,
     5
    ]
   ],
@@ -914,5 +920,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
