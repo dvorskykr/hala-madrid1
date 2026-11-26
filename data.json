@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:03:20Z",
+ "updated": "2026-11-26T01:41:54Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -171,8 +171,8 @@
    "id": 564762,
    "odds": {
     "h": 1.12,
-    "d": 9.07,
-    "a": 16.98,
+    "d": 9.12,
+    "a": 17.53,
     "src": "průměr 21 sázkových kanceláří (The Odds API)"
    }
   },
@@ -184,9 +184,9 @@
    "id": 564855,
    "odds": {
     "h": 5.91,
-    "d": 5.17,
+    "d": 5.2,
     "a": 1.41,
-    "src": "průměr 17 sázkových kanceláří (The Odds API)"
+    "src": "průměr 18 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -196,8 +196,8 @@
    "opp": "Athletic",
    "id": 564775,
    "odds": {
-    "h": 4.61,
-    "d": 4.15,
+    "h": 4.62,
+    "d": 4.14,
     "a": 1.61,
     "src": "průměr 16 sázkových kanceláří (The Odds API)"
    }
@@ -207,7 +207,13 @@
    "comp": "Liga mistrů",
    "home": false,
    "opp": "Arsenal",
-   "id": 575280
+   "id": 575280,
+   "odds": {
+    "h": 1.91,
+    "d": 3.65,
+    "a": 3.55,
+    "src": "průměr 14 sázkových kanceláří (The Odds API)"
+   }
   },
   {
    "t": "2026-12-13T20:00:00Z",
@@ -554,9 +560,9 @@
     2,
     "Paris Saint-Germain",
     4,
+    1,
     0,
-    0,
-    12
+    13
    ],
    [
     3,
@@ -568,7 +574,7 @@
    ],
    [
     4,
-    "Real Betis",
+    "FC Barcelona",
     4,
     0,
     1,
@@ -576,6 +582,22 @@
    ],
    [
     5,
+    "Liverpool",
+    4,
+    0,
+    1,
+    12
+   ],
+   [
+    6,
+    "Real Betis",
+    4,
+    0,
+    1,
+    12
+   ],
+   [
+    7,
     "Arsenal",
     3,
     2,
@@ -583,7 +605,7 @@
     11
    ],
    [
-    6,
+    8,
     "Manchester City",
     3,
     1,
@@ -591,7 +613,15 @@
     10
    ],
    [
-    7,
+    9,
+    "Sporting CP",
+    3,
+    1,
+    1,
+    10
+   ],
+   [
+    10,
     "Borussia Dortmund",
     3,
     1,
@@ -599,15 +629,7 @@
     10
    ],
    [
-    8,
-    "FC Barcelona",
-    3,
-    0,
-    1,
-    9
-   ],
-   [
-    9,
+    11,
     "Aston Villa",
     3,
     0,
@@ -615,32 +637,16 @@
     9
    ],
    [
-    10,
-    "Liverpool",
-    3,
-    0,
-    1,
-    9
-   ],
-   [
-    11,
-    "Club Brugge",
-    3,
-    0,
-    1,
-    9
-   ],
-   [
     12,
-    "Sporting CP",
+    "Inter Milán",
     3,
     0,
-    1,
+    2,
     9
    ],
    [
     13,
-    "Galatasaray",
+    "Club Brugge",
     3,
     0,
     2,
@@ -648,22 +654,54 @@
    ],
    [
     14,
-    "Bayern Mnichov",
-    2,
-    2,
+    "Galatasaray",
+    3,
     0,
-    8
+    2,
+    9
    ],
    [
     15,
-    "Stuttgart",
+    "Bayern Mnichov",
+    2,
     2,
     1,
-    1,
-    7
+    8
    ],
    [
     16,
+    "Fenerbahce",
+    2,
+    2,
+    1,
+    8
+   ],
+   [
+    17,
+    "Stuttgart",
+    2,
+    1,
+    2,
+    7
+   ],
+   [
+    18,
+    "Atlético Madrid",
+    2,
+    1,
+    2,
+    7
+   ],
+   [
+    19,
+    "Manchester United",
+    2,
+    1,
+    2,
+    7
+   ],
+   [
+    20,
     "Bodø/Glimt",
     2,
     1,
@@ -671,15 +709,7 @@
     7
    ],
    [
-    17,
-    "Inter Milán",
-    2,
-    0,
-    2,
-    6
-   ],
-   [
-    18,
+    21,
     "LASK",
     2,
     0,
@@ -687,15 +717,7 @@
     6
    ],
    [
-    19,
-    "Manchester United",
-    2,
-    0,
-    2,
-    6
-   ],
-   [
-    20,
+    22,
     "Porto",
     2,
     0,
@@ -703,7 +725,7 @@
     6
    ],
    [
-    21,
+    23,
     "RB Lipsko",
     2,
     0,
@@ -711,48 +733,32 @@
     6
    ],
    [
-    22,
-    "Fenerbahce",
-    1,
-    2,
-    1,
-    5
-   ],
-   [
-    23,
-    "AS Řím",
-    1,
-    1,
-    2,
-    4
-   ],
-   [
     24,
-    "Shaktar",
-    1,
-    1,
+    "Villarreal",
     2,
-    4
+    0,
+    3,
+    6
    ],
    [
     25,
-    "Viking",
-    1,
+    "AS Řím",
     1,
     2,
-    4
+    2,
+    5
    ],
    [
     26,
-    "Atlético Madrid",
+    "Shaktar",
     1,
     1,
-    2,
+    3,
     4
    ],
    [
     27,
-    "SSC Neapol",
+    "Viking",
     1,
     1,
     3,
@@ -760,7 +766,7 @@
    ],
    [
     28,
-    "PSV",
+    "SSC Neapol",
     1,
     1,
     3,
@@ -768,19 +774,19 @@
    ],
    [
     29,
-    "Villarreal",
+    "Lille",
     1,
-    0,
+    1,
     3,
-    3
+    4
    ],
    [
     30,
-    "Sabah FK",
+    "PSV",
     1,
-    0,
+    1,
     3,
-    3
+    4
    ],
    [
     31,
@@ -800,7 +806,7 @@
    ],
    [
     33,
-    "RC Lens",
+    "Sabah FK",
     1,
     0,
     4,
@@ -808,18 +814,18 @@
    ],
    [
     34,
-    "Slavia Praha",
-    0,
+    "RC Lens",
     1,
-    3,
-    1
+    0,
+    4,
+    3
    ],
    [
     35,
-    "Lille",
+    "Slavia Praha",
     0,
     1,
-    3,
+    4,
     1
    ],
    [
@@ -922,5 +928,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
