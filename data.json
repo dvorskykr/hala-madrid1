@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:39:26Z",
+ "updated": "2026-11-27T01:34:22Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -171,8 +171,8 @@
    "id": 564762,
    "odds": {
     "h": 1.12,
-    "d": 9.24,
-    "a": 17.96,
+    "d": 9.4,
+    "a": 18.06,
     "src": "průměr 21 sázkových kanceláří (The Odds API)"
    }
   },
@@ -183,10 +183,10 @@
    "opp": "Real Sociedad",
    "id": 564855,
    "odds": {
-    "h": 5.97,
-    "d": 5.19,
-    "a": 1.41,
-    "src": "průměr 18 sázkových kanceláří (The Odds API)"
+    "h": 6.21,
+    "d": 5.27,
+    "a": 1.39,
+    "src": "průměr 19 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -197,9 +197,9 @@
    "id": 564775,
    "odds": {
     "h": 4.62,
-    "d": 4.16,
+    "d": 4.17,
     "a": 1.61,
-    "src": "průměr 17 sázkových kanceláří (The Odds API)"
+    "src": "průměr 16 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -209,10 +209,10 @@
    "opp": "Arsenal",
    "id": 575280,
    "odds": {
-    "h": 1.97,
-    "d": 3.75,
-    "a": 3.37,
-    "src": "průměr 19 sázkových kanceláří (The Odds API)"
+    "h": 1.99,
+    "d": 3.8,
+    "a": 3.26,
+    "src": "průměr 18 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -928,5 +928,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
