@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:57:00Z",
+ "updated": "2026-11-28T01:15:10Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -171,8 +171,8 @@
    "id": 564762,
    "odds": {
     "h": 1.11,
-    "d": 9.7,
-    "a": 18.88,
+    "d": 9.64,
+    "a": 19.31,
     "src": "průměr 21 sázkových kanceláří (The Odds API)"
    }
   },
@@ -183,8 +183,8 @@
    "opp": "Real Sociedad",
    "id": 564855,
    "odds": {
-    "h": 6.3,
-    "d": 5.38,
+    "h": 6.35,
+    "d": 5.37,
     "a": 1.39,
     "src": "průměr 20 sázkových kanceláří (The Odds API)"
    }
@@ -209,9 +209,9 @@
    "opp": "Arsenal",
    "id": 575280,
    "odds": {
-    "h": 2.09,
-    "d": 3.82,
-    "a": 2.99,
+    "h": 2.13,
+    "d": 3.8,
+    "a": 2.92,
     "src": "průměr 18 sázkových kanceláří (The Odds API)"
    }
   },
@@ -428,19 +428,19 @@
    ],
    [
     6,
+    "Santander",
+    6,
+    2,
+    6,
+    20
+   ],
+   [
+    7,
     "Sevilla FC",
     5,
     4,
     4,
     19
-   ],
-   [
-    7,
-    "Santander",
-    5,
-    2,
-    6,
-    17
    ],
    [
     8,
@@ -503,7 +503,7 @@
     "Levante",
     2,
     6,
-    5,
+    6,
     12
    ],
    [
@@ -928,5 +928,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
