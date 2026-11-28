@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:12:25Z",
+ "updated": "2026-11-28T15:15:58Z",
  "games": [
   {
    "t": "2026-08-22T19:30:00Z",
@@ -170,9 +170,9 @@
    "opp": "Alavés",
    "id": 564762,
    "odds": {
-    "h": 1.11,
-    "d": 9.64,
-    "a": 19.31,
+    "h": 1.14,
+    "d": 9.0,
+    "a": 16.1,
     "src": "průměr 21 sázkových kanceláří (The Odds API)"
    }
   },
@@ -184,9 +184,9 @@
    "id": 564855,
    "odds": {
     "h": 6.35,
-    "d": 5.37,
+    "d": 5.35,
     "a": 1.39,
-    "src": "průměr 20 sázkových kanceláří (The Odds API)"
+    "src": "průměr 19 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -197,7 +197,7 @@
    "id": 564775,
    "odds": {
     "h": 4.64,
-    "d": 4.19,
+    "d": 4.21,
     "a": 1.6,
     "src": "průměr 16 sázkových kanceláří (The Odds API)"
    }
@@ -209,10 +209,10 @@
    "opp": "Arsenal",
    "id": 575280,
    "odds": {
-    "h": 2.13,
-    "d": 3.8,
-    "a": 2.92,
-    "src": "průměr 18 sázkových kanceláří (The Odds API)"
+    "h": 2.17,
+    "d": 3.76,
+    "a": 2.88,
+    "src": "průměr 19 sázkových kanceláří (The Odds API)"
    }
   },
   {
@@ -415,7 +415,7 @@
     "Real Betis",
     8,
     3,
-    2,
+    3,
     27
    ],
    [
@@ -484,7 +484,7 @@
    ],
    [
     13,
-    "Osasuna",
+    "Rayo Vallecano",
     4,
     3,
     6,
@@ -492,6 +492,14 @@
    ],
    [
     14,
+    "Osasuna",
+    4,
+    3,
+    6,
+    15
+   ],
+   [
+    15,
     "Celta Vigo",
     2,
     7,
@@ -499,18 +507,10 @@
     13
    ],
    [
-    15,
+    16,
     "Levante",
     2,
     6,
-    6,
-    12
-   ],
-   [
-    16,
-    "Rayo Vallecano",
-    3,
-    3,
     6,
     12
    ],
@@ -928,5 +928,5 @@
    ]
   ]
  },
- "source": "football-data.org"
+ "source": "football-data.org, The Odds API"
 }
